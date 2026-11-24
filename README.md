@@ -236,3 +236,4 @@ Setiap modul CRUD memakai pola yang sama: `index.php` (daftar), `form.php` (tamb
 | Irsyad Palupi Sidqi Musdiarto | H1D025028 | Koordinator, autentikasi, data warga, wilayah, kategori |
 | Muhammad Rasya Putra Ramadhan | H1D025003 | Jadwal ronda, laporan kejadian, verifikasi dan tindak lanjut |
 | Muhammad Rafly Abimanyu | H1D025010 | Lapor tamu, pengumuman, dashboard |
+
